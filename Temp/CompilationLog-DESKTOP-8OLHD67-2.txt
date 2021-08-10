@@ -1,0 +1,2 @@
+# Starting compiling KartGame.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-984951e14e32c1645b399b9b114edc70
